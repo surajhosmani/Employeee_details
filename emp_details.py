@@ -10,7 +10,7 @@ def emp_details(name, emp_id, dept, salary):
 if __name__ == "__main__":
     name = "Suraj"
     emp_id = 151
-    dept = "BCA"
-    salary = 20000000
+    dept = "MCA"
+    salary = 20000
     
     print(emp_details(name, emp_id, dept, salary))
