@@ -1,6 +1,6 @@
 from emp import emp_details
 
-def test_emp():
+def test_emp_details():
     expected_op = (
         "Employee name: Queen\n"
         "Employee id: 900\n"
